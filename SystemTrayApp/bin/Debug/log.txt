@@ -1,0 +1,10 @@
+2/16/2015 4:31:11 PM Your screenshot directory does not exist!
+2/16/2015 9:55:25 PM Your screenshot directory does not exist!
+2/16/2015 10:05:49 PM Your screenshot directory does not exist!
+2/16/2015 10:06:09 PM Your screenshot directory does not exist!
+2/18/2015 1:51:34 AM No update.xml File Found!
+2/18/2015 2:12:56 AM Error downloading update.xml, error: System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at SystemTrayApp.ContextMenus.Update_Click(Object sender, EventArgs e) in c:\workspace\BitmapChanger\SystemTrayApp\ContextMenus.cs:line 159
+2/18/2015 2:13:10 AM No update.xml File Found!

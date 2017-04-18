@@ -1,0 +1,14 @@
+C:\workspace\BitmapChanger\Images\training\jtesseract\JTessaract\bin\Debug\JTessaract.exe
+C:\workspace\BitmapChanger\Images\training\jtesseract\JTessaract\bin\Debug\JTessaract.pdb
+C:\workspace\BitmapChanger\Images\training\jtesseract\JTessaract\obj\Debug\JTessaract.csprojResolveAssemblyReference.cache
+C:\workspace\BitmapChanger\Images\training\jtesseract\JTessaract\obj\Debug\JTessaract.AboutBox.resources
+C:\workspace\BitmapChanger\Images\training\jtesseract\JTessaract\obj\Debug\JTessaract.Canvas.resources
+C:\workspace\BitmapChanger\Images\training\jtesseract\JTessaract\obj\Debug\JTessaract.Options.resources
+C:\workspace\BitmapChanger\Images\training\jtesseract\JTessaract\obj\Debug\JTessaract.PreviewPerChar.resources
+C:\workspace\BitmapChanger\Images\training\jtesseract\JTessaract\obj\Debug\JTessaract.Mainform.resources
+C:\workspace\BitmapChanger\Images\training\jtesseract\JTessaract\obj\Debug\JTessaract.Preview.resources
+C:\workspace\BitmapChanger\Images\training\jtesseract\JTessaract\obj\Debug\JTessaract.ProjectSettings.resources
+C:\workspace\BitmapChanger\Images\training\jtesseract\JTessaract\obj\Debug\JTessaract.Properties.Resources.resources
+C:\workspace\BitmapChanger\Images\training\jtesseract\JTessaract\obj\Debug\JTessaract.csproj.GenerateResource.Cache
+C:\workspace\BitmapChanger\Images\training\jtesseract\JTessaract\obj\Debug\JTessaract.exe
+C:\workspace\BitmapChanger\Images\training\jtesseract\JTessaract\obj\Debug\JTessaract.pdb

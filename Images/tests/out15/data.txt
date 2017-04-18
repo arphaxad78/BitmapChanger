@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<ocrData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <stationName>HEWISH STATION</stationName>
+  <ocrDataRows>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:16:13.3626375-07:00</goodDate>
+      <goodName>BAUXITE</goodName>
+      <sellPrice>277</sellPrice>
+      <buyPrice />
+      <demandA>1741746</demandA>
+      <demandB>HIGH</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:16:13.3626375-07:00</goodDate>
+      <goodName>BERTRANDITE</goodName>
+      <sellPrice>2653</sellPrice>
+      <buyPrice />
+      <demandA>119940</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:16:13.3626375-07:00</goodDate>
+      <goodName>CDLTAN</goodName>
+      <sellPrice>1697</sellPrice>
+      <buyPrice />
+      <demandA>309789</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:16:13.3626375-07:00</goodDate>
+      <goodName>CALUTE</goodName>
+      <sellPrice>2013</sellPrice>
+      <buyPrice />
+      <demandA>136757</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:16:13.3626375-07:00</goodDate>
+      <goodName>INDITE</goodName>
+      <sellPrice>2571</sellPrice>
+      <buyPrice />
+      <demandA>216341</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:16:13.3626375-07:00</goodDate>
+      <goodName>LEPIDOLITE</goodName>
+      <sellPrice>790</sellPrice>
+      <buyPrice />
+      <demandA>635307</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:16:13.3626375-07:00</goodDate>
+      <goodName>RUTILE</goodName>
+      <sellPrice>480</sellPrice>
+      <buyPrice />
+      <demandA>1242566</demandA>
+      <demandB>HIGH</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:16:13.3626375-07:00</goodDate>
+      <goodName>. E. URANINITE</goodName>
+      <sellPrice>987</sellPrice>
+      <buyPrice />
+      <demandA>37385</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:16:13.3626375-07:00</goodDate>
+      <goodName>ADVANCED CATALYSERS</goodName>
+      <sellPrice>2782</sellPrice>
+      <buyPrice />
+      <demandA>47470</demandA>
+      <demandB>LOW</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:16:13.3626375-07:00</goodDate>
+      <goodName>ANIMAL MDNITDRS</goodName>
+      <sellPrice>207</sellPrice>
+      <buyPrice>222</buyPrice>
+      <demandA />
+      <demandB />
+      <supplyA>7615</supplyA>
+      <supplyB>MED</supplyB>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:16:13.3626375-07:00</goodDate>
+      <goodName>ADUARDNIC SYSTEMS</goodName>
+      <sellPrice>184</sellPrice>
+      <buyPrice>196</buyPrice>
+      <demandA />
+      <demandB />
+      <supplyA>6659</supplyA>
+      <supplyB>MED</supplyB>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:16:13.3626375-07:00</goodDate>
+      <goodName>AUTD</goodName>
+      <sellPrice>3472</sellPrice>
+      <buyPrice>3523</buyPrice>
+      <demandA />
+      <demandB />
+      <supplyA>3690</supplyA>
+      <supplyB>MED</supplyB>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:16:13.3626375-07:00</goodDate>
+      <goodName>EIIDREDUCIND LICI</goodName>
+      <sellPrice>815</sellPrice>
+      <buyPrice>839</buyPrice>
+      <demandA />
+      <demandB />
+      <supplyA>26401</supplyA>
+      <supplyB>MED</supplyB>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:16:13.3626375-07:00</goodDate>
+      <goodName>CDMRUTER CDMRDNENTS</goodName>
+      <sellPrice>727</sellPrice>
+      <buyPrice />
+      <demandA>96126</demandA>
+      <demandB>HIGH</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:16:13.3626375-07:00</goodDate>
+      <goodName>R.E. SUITS</goodName>
+      <sellPrice>293</sellPrice>
+      <buyPrice />
+      <demandA>72890</demandA>
+      <demandB>LOW</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:16:13.3626375-07:00</goodDate>
+      <goodName>LAND ENRICHMENT SYSTEMS</goodName>
+      <sellPrice>4541</sellPrice>
+      <buyPrice>4608</buyPrice>
+      <demandA />
+      <demandB />
+      <supplyA>36750</supplyA>
+      <supplyB>MED</supplyB>
+    </ocrDataRow>
+  </ocrDataRows>
+</ocrData>

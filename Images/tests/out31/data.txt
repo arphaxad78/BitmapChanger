@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<ocrData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <stationName>JEMISON REFINERY</stationName>
+  <ocrDataRows>
+    <ocrDataRow>
+      <goodDate>2015-02-23T18:49:04.2739773-07:00</goodDate>
+      <goodName>EXPLOSIVES</goodName>
+      <sellPrice>303</sellPrice>
+      <buyPrice />
+      <demandA>2771L</demandA>
+      <demandB />
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-02-23T18:49:04.2739773-07:00</goodDate>
+      <goodName>HYDROGEN FUEL</goodName>
+      <sellPrice>90</sellPrice>
+      <buyPrice>94</buyPrice>
+      <demandA />
+      <demandB />
+      <supplyA>142231</supplyA>
+      <supplyB>HIGH</supplyB>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-02-23T18:49:04.2739773-07:00</goodDate>
+      <goodName>MINERAL OIL</goodName>
+      <sellPrice>328</sellPrice>
+      <buyPrice />
+      <demandA>37042H</demandA>
+      <demandB />
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-02-23T18:49:04.2739773-07:00</goodDate>
+      <goodName>CLOTHING</goodName>
+      <sellPrice>318</sellPrice>
+      <buyPrice />
+      <demandA>1098L</demandA>
+      <demandB />
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-02-23T18:49:04.2739773-07:00</goodDate>
+      <goodName>CONSUMER TECHNOLOGY</goodName>
+      <sellPrice>6622</sellPrice>
+      <buyPrice />
+      <demandA>149L</demandA>
+      <demandB />
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-02-23T18:49:04.2739773-07:00</goodDate>
+      <goodName>DOMESTIC APPLIANCES</goodName>
+      <sellPrice>532</sellPrice>
+      <buyPrice />
+      <demandA>377L</demandA>
+      <demandB />
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-02-23T18:49:04.2747007-07:00</goodDate>
+      <goodName>ANIMAL MEAT</goodName>
+      <sellPrice>1648</sellPrice>
+      <buyPrice />
+      <demandA>1110H</demandA>
+      <demandB />
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-02-23T18:49:04.2747007-07:00</goodDate>
+      <goodName>COFFEE</goodName>
+      <sellPrice>1562</sellPrice>
+      <buyPrice />
+      <demandA>351H</demandA>
+      <demandB />
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-02-23T18:49:04.2747007-07:00</goodDate>
+      <goodName>FISH</goodName>
+      <sellPrice>589</sellPrice>
+      <buyPrice />
+      <demandA>3249H</demandA>
+      <demandB />
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-02-23T18:49:04.2747007-07:00</goodDate>
+      <goodName>FOOD CARTRIDGES</goodName>
+      <sellPrice>175</sellPrice>
+      <buyPrice />
+      <demandA>91L</demandA>
+      <demandB />
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-02-23T18:49:04.2747007-07:00</goodDate>
+      <goodName>FRUIT AND VEGETABLES</goodName>
+      <sellPrice>479</sellPrice>
+      <buyPrice />
+      <demandA>1264H</demandA>
+      <demandB />
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-02-23T18:49:04.2747007-07:00</goodDate>
+      <goodName>GRAIN</goodName>
+      <sellPrice>346</sellPrice>
+      <buyPrice />
+      <demandA>7331H</demandA>
+      <demandB />
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-02-23T18:49:04.2747007-07:00</goodDate>
+      <goodName>SYNTHETIC MEAT</goodName>
+      <sellPrice>255</sellPrice>
+      <buyPrice />
+      <demandA>204L</demandA>
+      <demandB />
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-02-23T18:49:04.2747007-07:00</goodDate>
+      <goodName>TEA</goodName>
+      <sellPrice>1850</sellPrice>
+      <buyPrice />
+      <demandA>1023H</demandA>
+      <demandB />
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+  </ocrDataRows>
+</ocrData>

@@ -1,0 +1,23 @@
+﻿Installing assembly 'C:\workspace\BitmapChanger\SerenityServiceOCR\bin\Debug\SerenityServiceOCR.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\workspace\BitmapChanger\SerenityServiceOCR\bin\Debug\SerenityServiceOCR.exe
+   logfile = C:\workspace\BitmapChanger\SerenityServiceOCR\bin\Debug\SerenityServiceOCR.InstallLog
+Rolling back assembly 'C:\workspace\BitmapChanger\SerenityServiceOCR\bin\Debug\SerenityServiceOCR.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\workspace\BitmapChanger\SerenityServiceOCR\bin\Debug\SerenityServiceOCR.exe
+   logfile = C:\workspace\BitmapChanger\SerenityServiceOCR\bin\Debug\SerenityServiceOCR.InstallLog
+Installing assembly 'C:\workspace\BitmapChanger\SerenityServiceOCR\bin\Debug\SerenityServiceOCR.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\workspace\BitmapChanger\SerenityServiceOCR\bin\Debug\SerenityServiceOCR.exe
+   logfile = C:\workspace\BitmapChanger\SerenityServiceOCR\bin\Debug\SerenityServiceOCR.InstallLog
+Installing service Serenity OCR...
+Service Serenity OCR has been successfully installed.
+Creating EventLog source Serenity OCR in log Application...
+Committing assembly 'C:\workspace\BitmapChanger\SerenityServiceOCR\bin\Debug\SerenityServiceOCR.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\workspace\BitmapChanger\SerenityServiceOCR\bin\Debug\SerenityServiceOCR.exe
+   logfile = C:\workspace\BitmapChanger\SerenityServiceOCR\bin\Debug\SerenityServiceOCR.InstallLog

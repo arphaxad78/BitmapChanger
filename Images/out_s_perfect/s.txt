@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<ocrData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <stationName>SEREBROV STATION</stationName>
+  <ocrDataRows>
+    <ocrDataRow>
+      <goodDate>2015-01-20T00:29:08.516666-07:00</goodDate>
+      <goodName>EXPLOSIVES</goodName>
+      <sellPrice>189</sellPrice>
+      <buyPrice>203</buyPrice>
+      <demand />
+      <supply>24091 MED</supply>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-20T00:29:08.516666-07:00</goodDate>
+      <goodName>HYDROGEN FUEL</goodName>
+      <sellPrice>89</sellPrice>
+      <buyPrice>94</buyPrice>
+      <demand />
+      <supply>248451 HIGH</supply>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-20T00:29:08.516666-07:00</goodDate>
+      <goodName>MINERAL OIL</goodName>
+      <sellPrice>193</sellPrice>
+      <buyPrice>0</buyPrice>
+      <demand>15758 LOW</demand>
+      <supply />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-20T00:29:08.516666-07:00</goodDate>
+      <goodName>CLOTHING</goodName>
+      <sellPrice>214</sellPrice>
+      <buyPrice>230</buyPrice>
+      <demand />
+      <supply>51063 MED</supply>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-20T00:29:08.516666-07:00</goodDate>
+      <goodName>CONSUMER TECHNOLOGY</goodName>
+      <sellPrice>7432</sellPrice>
+      <buyPrice>0</buyPrice>
+      <demand>8187 HIGH</demand>
+      <supply />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-20T00:29:08.516666-07:00</goodDate>
+      <goodName>DOMESTIC APPLIANCES</goodName>
+      <sellPrice>529</sellPrice>
+      <buyPrice>0</buyPrice>
+      <demand>1119 LOW</demand>
+      <supply />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-20T00:29:08.516666-07:00</goodDate>
+      <goodName>ALGAE</goodName>
+      <sellPrice>136</sellPrice>
+      <buyPrice>0</buyPrice>
+      <demand>77833 LOW</demand>
+      <supply />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-20T00:29:08.516666-07:00</goodDate>
+      <goodName>ANIMAL MEAT</goodName>
+      <sellPrice>1289</sellPrice>
+      <buyPrice>0</buyPrice>
+      <demand>562 LOW</demand>
+      <supply />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-20T00:29:08.516666-07:00</goodDate>
+      <goodName>COFFEE</goodName>
+      <sellPrice>1289</sellPrice>
+      <buyPrice>0</buyPrice>
+      <demand>0 LOW</demand>
+      <supply />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-20T00:29:08.516666-07:00</goodDate>
+      <goodName>FISH</goodName>
+      <sellPrice>404</sellPrice>
+      <buyPrice>0</buyPrice>
+      <demand>1612 LOW</demand>
+      <supply />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-20T00:29:08.516666-07:00</goodDate>
+      <goodName>FOOD CARTRIDGES</goodName>
+      <sellPrice>34</sellPrice>
+      <buyPrice>44</buyPrice>
+      <demand />
+      <supply>102900 HIGH</supply>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-20T00:29:08.516666-07:00</goodDate>
+      <goodName>FRUIT AND VEGETABLES</goodName>
+      <sellPrice>316</sellPrice>
+      <buyPrice>0</buyPrice>
+      <demand>578 LOW</demand>
+      <supply />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-20T00:29:08.516666-07:00</goodDate>
+      <goodName>GRAIN</goodName>
+      <sellPrice>208</sellPrice>
+      <buyPrice>0</buyPrice>
+      <demand>3562 LOW</demand>
+      <supply />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-20T00:29:08.516666-07:00</goodDate>
+      <goodName>SYNTHETIC MEAT</goodName>
+      <sellPrice>384</sellPrice>
+      <buyPrice>0</buyPrice>
+      <demand>10456 HIGH</demand>
+      <supply />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-20T00:29:08.516666-07:00</goodDate>
+      <goodName>TEA</goodName>
+      <sellPrice>1463</sellPrice>
+      <buyPrice>0</buyPrice>
+      <demand>0 LOW</demand>
+      <supply />
+    </ocrDataRow>
+  </ocrDataRows>
+</ocrData>

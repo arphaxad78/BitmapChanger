@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<ocrData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <stationName>COOK TERMINAL</stationName>
+  <ocrDataRows>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:24:45.1912074-07:00</goodDate>
+      <goodName>BAUXITE</goodName>
+      <sellPrice>258</sellPrice>
+      <buyPrice />
+      <demandA>659325</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:24:45.1912074-07:00</goodDate>
+      <goodName>BERTRANDITE</goodName>
+      <sellPrice>2452</sellPrice>
+      <buyPrice />
+      <demandA>22664</demandA>
+      <demandB>LOW</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:24:45.1912074-07:00</goodDate>
+      <goodName>COLTAN</goodName>
+      <sellPrice>1657</sellPrice>
+      <buyPrice />
+      <demandA>119756</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:24:45.1912074-07:00</goodDate>
+      <goodName>GALLITE</goodName>
+      <sellPrice>1993</sellPrice>
+      <buyPrice />
+      <demandA>27813</demandA>
+      <demandB>LOW</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:24:45.1912074-07:00</goodDate>
+      <goodName>INDITE</goodName>
+      <sellPrice>2520</sellPrice>
+      <buyPrice />
+      <demandA>63669</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:24:45.1912074-07:00</goodDate>
+      <goodName>LEPIDOLITE</goodName>
+      <sellPrice>749</sellPrice>
+      <buyPrice />
+      <demandA>230798</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:24:45.1912074-07:00</goodDate>
+      <goodName>RUTILE</goodName>
+      <sellPrice>459</sellPrice>
+      <buyPrice />
+      <demandA>431913</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:24:45.1912074-07:00</goodDate>
+      <goodName>URANINITE</goodName>
+      <sellPrice>994</sellPrice>
+      <buyPrice />
+      <demandA>7723</demandA>
+      <demandB>LOW</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:24:45.1912074-07:00</goodDate>
+      <goodName>ADVANCED CATALYSERS</goodName>
+      <sellPrice>2793</sellPrice>
+      <buyPrice />
+      <demandA>20440</demandA>
+      <demandB>LOW</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:24:45.1912074-07:00</goodDate>
+      <goodName>AUTO</goodName>
+      <sellPrice>3631</sellPrice>
+      <buyPrice />
+      <demandA>3405</demandA>
+      <demandB>LOW</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:24:45.1912074-07:00</goodDate>
+      <goodName>COMPUTER COMPONENTS</goodName>
+      <sellPrice>416</sellPrice>
+      <buyPrice>436</buyPrice>
+      <demandA />
+      <demandB />
+      <supplyA>12360</supplyA>
+      <supplyB>MED</supplyB>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:24:45.1912074-07:00</goodDate>
+      <goodName>H.E. SUITS</goodName>
+      <sellPrice>367</sellPrice>
+      <buyPrice />
+      <demandA>182587</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:24:45.1912074-07:00</goodDate>
+      <goodName>RESONATING SEPARATORS</goodName>
+      <sellPrice>5774</sellPrice>
+      <buyPrice />
+      <demandA>11624</demandA>
+      <demandB>LOW</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:24:45.1912074-07:00</goodDate>
+      <goodName>ROBOTICS</goodName>
+      <sellPrice>1776</sellPrice>
+      <buyPrice />
+      <demandA>7350</demandA>
+      <demandB>LOW</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:24:45.1912074-07:00</goodDate>
+      <goodName>IFATHFD</goodName>
+      <sellPrice>097</sellPrice>
+      <buyPrice />
+      <demandA>408900</demandA>
+      <demandB />
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+  </ocrDataRows>
+</ocrData>

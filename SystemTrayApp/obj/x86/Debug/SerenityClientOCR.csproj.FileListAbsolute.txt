@@ -1,0 +1,10 @@
+C:\workspace\BitmapChanger\SystemTrayApp\bin\Debug\SerenityClientOCR.exe.config
+C:\workspace\BitmapChanger\SystemTrayApp\obj\x86\Debug\SerenityClientOCR.AboutBox.resources
+C:\workspace\BitmapChanger\SystemTrayApp\obj\x86\Debug\SerenityClientOCR.OptionsBox.resources
+C:\workspace\BitmapChanger\SystemTrayApp\obj\x86\Debug\SerenityClientOCR.Properties.Resources.resources
+C:\workspace\BitmapChanger\SystemTrayApp\obj\x86\Debug\SerenityClientOCR.csproj.GenerateResource.Cache
+C:\workspace\BitmapChanger\SystemTrayApp\bin\Debug\SerenityClientOCR.exe
+C:\workspace\BitmapChanger\SystemTrayApp\bin\Debug\SerenityClientOCR.pdb
+C:\workspace\BitmapChanger\SystemTrayApp\obj\x86\Debug\SerenityClientOCR.exe
+C:\workspace\BitmapChanger\SystemTrayApp\obj\x86\Debug\SerenityClientOCR.pdb
+C:\workspace\BitmapChanger\SystemTrayApp\obj\x86\Debug\SerenityClientOCR.csprojResolveAssemblyReference.cache

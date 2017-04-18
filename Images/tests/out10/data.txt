@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<ocrData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <stationName>HEWISH STATION</stationName>
+  <ocrDataRows>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:10:00.3095972-07:00</goodDate>
+      <goodName>POLYMERS</goodName>
+      <sellPrice>63</sellPrice>
+      <buyPrice>76</buyPrice>
+      <demandA />
+      <demandB />
+      <supplyA>197851</supplyA>
+      <supplyB>MED</supplyB>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:10:00.3095972-07:00</goodDate>
+      <goodName>SEMICONDUCTORS</goodName>
+      <sellPrice>759</sellPrice>
+      <buyPrice>783</buyPrice>
+      <demandA />
+      <demandB />
+      <supplyA>26786</supplyA>
+      <supplyB>MED</supplyB>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:10:00.3095972-07:00</goodDate>
+      <goodName>SUPERCONDUCTORS</goodName>
+      <sellPrice>6505</sellPrice>
+      <buyPrice>6600</buyPrice>
+      <demandA />
+      <demandB />
+      <supplyA>59616</supplyA>
+      <supplyB>MED</supplyB>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:10:00.3095972-07:00</goodDate>
+      <goodName>BEER</goodName>
+      <sellPrice>176</sellPrice>
+      <buyPrice />
+      <demandA>17461</demandA>
+      <demandB>LOW</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:10:00.3095972-07:00</goodDate>
+      <goodName>LIQUOR</goodName>
+      <sellPrice>850</sellPrice>
+      <buyPrice />
+      <demandA>4441</demandA>
+      <demandB>HIGH</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:10:00.3095972-07:00</goodDate>
+      <goodName>WINE</goodName>
+      <sellPrice>319</sellPrice>
+      <buyPrice />
+      <demandA>46605</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:10:00.3095972-07:00</goodDate>
+      <goodName>MICROBIAL FURNACES</goodName>
+      <sellPrice>200</sellPrice>
+      <buyPrice />
+      <demandA>278460</demandA>
+      <demandB>LOW</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:10:00.3095972-07:00</goodDate>
+      <goodName>POWER GENERATORS</goodName>
+      <sellPrice>526</sellPrice>
+      <buyPrice />
+      <demandA>20914</demandA>
+      <demandB>LOW</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:10:00.3095972-07:00</goodDate>
+      <goodName>WATER PURIFIERS</goodName>
+      <sellPrice>343</sellPrice>
+      <buyPrice />
+      <demandA>12659</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:10:00.3095972-07:00</goodDate>
+      <goodName>AGRI</goodName>
+      <sellPrice>875</sellPrice>
+      <buyPrice>901</buyPrice>
+      <demandA />
+      <demandB />
+      <supplyA />
+      <supplyB>MED</supplyB>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:10:00.3095972-07:00</goodDate>
+      <goodName>BASIC MEDICINES</goodName>
+      <sellPrice>240</sellPrice>
+      <buyPrice>256</buyPrice>
+      <demandA />
+      <demandB />
+      <supplyA>3169</supplyA>
+      <supplyB>MED</supplyB>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:10:00.3095972-07:00</goodDate>
+      <goodName>PERFORMANCE ENHANCERS</goodName>
+      <sellPrice>6514</sellPrice>
+      <buyPrice>6609</buyPrice>
+      <demandA />
+      <demandB />
+      <supplyA>20907</supplyA>
+      <supplyB>MED</supplyB>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:10:00.3095972-07:00</goodDate>
+      <goodName>PROGENITOR CELLS</goodName>
+      <sellPrice>6463</sellPrice>
+      <buyPrice>6558</buyPrice>
+      <demandA />
+      <demandB />
+      <supplyA>19726</supplyA>
+      <supplyB>MED</supplyB>
+    </ocrDataRow>
+  </ocrDataRows>
+</ocrData>

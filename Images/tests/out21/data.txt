@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<ocrData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <stationName>NEARCHUS HUB</stationName>
+  <ocrDataRows>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:54:54.8602737-07:00</goodDate>
+      <goodName>AGRI-MEDICINES</goodName>
+      <sellPrice>1236</sellPrice>
+      <buyPrice />
+      <demandA>571368</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:54:54.8602737-07:00</goodDate>
+      <goodName>BASIC MEDICINES</goodName>
+      <sellPrice>413</sellPrice>
+      <buyPrice />
+      <demandA>39790</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:54:54.8602737-07:00</goodDate>
+      <goodName>PERFORMANCE ENHANCERS</goodName>
+      <sellPrice>7027</sellPrice>
+      <buyPrice />
+      <demandA>67041</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:54:54.8602737-07:00</goodDate>
+      <goodName>PROGENITOR CELLS</goodName>
+      <sellPrice>7370</sellPrice>
+      <buyPrice />
+      <demandA>77027</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:54:54.8602737-07:00</goodDate>
+      <goodName>ANIMAL MONITORS</goodName>
+      <sellPrice>439</sellPrice>
+      <buyPrice />
+      <demandA>864G207</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:54:54.8602737-07:00</goodDate>
+      <goodName>AQUAPONIC SYSTEMS</goodName>
+      <sellPrice>382</sellPrice>
+      <buyPrice />
+      <demandA>1852051</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:54:54.8602737-07:00</goodDate>
+      <goodName>LAND ENRICHMENT SYSTEMS</goodName>
+      <sellPrice>5314</sellPrice>
+      <buyPrice />
+      <demandA>847242</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:54:54.8602737-07:00</goodDate>
+      <goodName>LEATHER</goodName>
+      <sellPrice>76</sellPrice>
+      <buyPrice>90</buyPrice>
+      <demandA />
+      <demandB />
+      <supplyA>96103</supplyA>
+      <supplyB>MED</supplyB>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:54:54.8602737-07:00</goodDate>
+      <goodName>NATURAL FABRICS</goodName>
+      <sellPrice>281</sellPrice>
+      <buyPrice>297</buyPrice>
+      <demandA />
+      <demandB />
+      <supplyA>347248</supplyA>
+      <supplyB>MED</supplyB>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:54:54.8602737-07:00</goodDate>
+      <goodName>BIOWASTE</goodName>
+      <sellPrice>94</sellPrice>
+      <buyPrice />
+      <demandA>1767499</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:54:54.8602737-07:00</goodDate>
+      <goodName>NON-LETHAL WEAPONS</goodName>
+      <sellPrice>1766</sellPrice>
+      <buyPrice />
+      <demandA>158</demandA>
+      <demandB>LOW</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T16:54:54.8602737-07:00</goodDate>
+      <goodName>REACTIVE ARMOUR</goodName>
+      <sellPrice>2008</sellPrice>
+      <buyPrice />
+      <demandA>431</demandA>
+      <demandB>LOW</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+  </ocrDataRows>
+</ocrData>

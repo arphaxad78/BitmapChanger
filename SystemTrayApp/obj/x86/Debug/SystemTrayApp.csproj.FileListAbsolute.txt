@@ -1,0 +1,10 @@
+C:\workspace\BitmapChanger\SystemTrayApp\bin\Debug\SystemTrayApp.exe
+C:\workspace\BitmapChanger\SystemTrayApp\bin\Debug\SystemTrayApp.pdb
+C:\workspace\BitmapChanger\SystemTrayApp\obj\x86\Debug\SystemTrayApp.csprojResolveAssemblyReference.cache
+C:\workspace\BitmapChanger\SystemTrayApp\obj\x86\Debug\SystemTrayApp.AboutBox.resources
+C:\workspace\BitmapChanger\SystemTrayApp\obj\x86\Debug\SystemTrayApp.Properties.Resources.resources
+C:\workspace\BitmapChanger\SystemTrayApp\obj\x86\Debug\SystemTrayApp.csproj.GenerateResource.Cache
+C:\workspace\BitmapChanger\SystemTrayApp\obj\x86\Debug\SystemTrayApp.exe
+C:\workspace\BitmapChanger\SystemTrayApp\obj\x86\Debug\SystemTrayApp.pdb
+C:\workspace\BitmapChanger\SystemTrayApp\obj\x86\Debug\SystemTrayApp.OptionsBox.resources
+C:\workspace\BitmapChanger\SystemTrayApp\bin\Debug\SystemTrayApp.exe.config

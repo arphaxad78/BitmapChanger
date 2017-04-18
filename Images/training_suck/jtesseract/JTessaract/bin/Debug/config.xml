@@ -1,0 +1,46 @@
+<jtesseract>
+  <tesseract-bin>C:\Program Files (x86)\Tesseract-OCR\</tesseract-bin>
+  <frequent-char>
+    <char>¹</char>
+    <char>²</char>
+    <char>³</char>
+    <char>Ä</char>
+    <char>Ā</char>
+    <char>Ǟ</char>
+    <char>ā</char>
+    <char>à</char>
+    <char>ä</char>
+    <char>ǟ</char>
+    <char>Ś</char>
+    <char>ś</char>
+    <char>и</char>
+    <char>м</char>
+    <char>Ṭ</char>
+    <char>ṭ</char>
+    <char>Ṇ</char>
+    <char>Ṅ</char>
+    <char>ṇ</char>
+    <char>ṅ</char>
+    <char>Ī</char>
+    <char>Ḍ</char>
+    <char>ḍ</char>
+    <char>Ī</char>
+    <char>ī</char>
+    <char>Ē</char>
+    <char>ē</char>
+    <char>Ū</char>
+    <char>ū</char>
+    <char>†</char>
+    <char>Ṛ</char>
+    <char>ṛ</char>
+    <char>ã</char>
+    <char>Ṣ</char>
+    <char>ṣ</char>
+    <char>‘</char>
+    <char>̓</char>
+    <char>Ň</char>
+    <char>ň</char>
+    <char>Ṁ</char>
+    <char>ṁ</char>
+  </frequent-char>
+</jtesseract>

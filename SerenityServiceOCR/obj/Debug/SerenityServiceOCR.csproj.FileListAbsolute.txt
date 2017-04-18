@@ -1,0 +1,11 @@
+C:\workspace\BitmapChanger\SerenityServiceOCR\bin\Debug\SerenityServiceOCR.exe.config
+C:\workspace\BitmapChanger\SerenityServiceOCR\bin\Debug\SerenityServiceOCR.exe
+C:\workspace\BitmapChanger\SerenityServiceOCR\bin\Debug\SerenityServiceOCR.pdb
+C:\workspace\BitmapChanger\SerenityServiceOCR\obj\Debug\SerenityServiceOCR.exe
+C:\workspace\BitmapChanger\SerenityServiceOCR\obj\Debug\SerenityServiceOCR.pdb
+C:\workspace\BitmapChanger\SerenityServiceOCR\bin\Debug\Newtonsoft.Json.dll
+C:\workspace\BitmapChanger\SerenityServiceOCR\bin\Debug\Newtonsoft.Json.pdb
+C:\workspace\BitmapChanger\SerenityServiceOCR\bin\Debug\Newtonsoft.Json.xml
+C:\workspace\BitmapChanger\SerenityServiceOCR\obj\Debug\SerenityServiceOCR.ProjectInstaller.resources
+C:\workspace\BitmapChanger\SerenityServiceOCR\obj\Debug\SerenityServiceOCR.csproj.GenerateResource.Cache
+C:\workspace\BitmapChanger\SerenityServiceOCR\obj\Debug\SerenityServiceOCR.csprojResolveAssemblyReference.cache

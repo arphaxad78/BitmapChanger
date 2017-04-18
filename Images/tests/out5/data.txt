@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<ocrData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <stationName>COOK TERMINAL</stationName>
+  <ocrDataRows>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:22:04.2171569-07:00</goodDate>
+      <goodName>BASIC MEDICINES</goodName>
+      <sellPrice>240</sellPrice>
+      <buyPrice>257</buyPrice>
+      <demandA />
+      <demandB />
+      <supplyA>2613</supplyA>
+      <supplyB>MED</supplyB>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:22:04.2171569-07:00</goodDate>
+      <goodName>PERFORMANCE ENHANCERS</goodName>
+      <sellPrice>7540</sellPrice>
+      <buyPrice />
+      <demandA>6591</demandA>
+      <demandB>HIGH</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:22:04.2171569-07:00</goodDate>
+      <goodName>PROGENITOR CELLS</goodName>
+      <sellPrice>6787</sellPrice>
+      <buyPrice />
+      <demandA>965</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:22:04.2171569-07:00</goodDate>
+      <goodName>ALUMINIUM</goodName>
+      <sellPrice>475</sellPrice>
+      <buyPrice />
+      <demandA>643137</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:22:04.2171569-07:00</goodDate>
+      <goodName>BERYLLIUM</goodName>
+      <sellPrice>8975</sellPrice>
+      <buyPrice />
+      <demandA>35000</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:22:04.2171569-07:00</goodDate>
+      <goodName>COBALT</goodName>
+      <sellPrice>705</sellPrice>
+      <buyPrice />
+      <demandA>12830</demandA>
+      <demandB>LOW</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:22:04.2171569-07:00</goodDate>
+      <goodName>COPPER</goodName>
+      <sellPrice>475</sellPrice>
+      <buyPrice />
+      <demandA>73496</demandA>
+      <demandB>LOW</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:22:04.2171569-07:00</goodDate>
+      <goodName>GALLIUM</goodName>
+      <sellPrice>5696</sellPrice>
+      <buyPrice />
+      <demandA>92605</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:22:04.2171569-07:00</goodDate>
+      <goodName>GOLD</goodName>
+      <sellPrice>10072</sellPrice>
+      <buyPrice />
+      <demandA>55959</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:22:04.2171569-07:00</goodDate>
+      <goodName>INDIUM</goodName>
+      <sellPrice>5819</sellPrice>
+      <buyPrice>5695</buyPrice>
+      <demandA />
+      <demandB />
+      <supplyA>32373</supplyA>
+      <supplyB>MED</supplyB>
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:22:04.2171569-07:00</goodDate>
+      <goodName>LITHIUM</goodName>
+      <sellPrice>1626</sellPrice>
+      <buyPrice />
+      <demandA>78599</demandA>
+      <demandB>LOW</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:22:04.2171569-07:00</goodDate>
+      <goodName>PALLADIUM</goodName>
+      <sellPrice>14087</sellPrice>
+      <buyPrice />
+      <demandA>45090</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:22:04.2171569-07:00</goodDate>
+      <goodName>PLATINUM</goodName>
+      <sellPrice>19795</sellPrice>
+      <buyPrice />
+      <demandA>3802</demandA>
+      <demandB>HIGH</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:22:04.2171569-07:00</goodDate>
+      <goodName>SILVER</goodName>
+      <sellPrice>5351</sellPrice>
+      <buyPrice />
+      <demandA>96159</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:22:04.2171569-07:00</goodDate>
+      <goodName>TANTALUM</goodName>
+      <sellPrice>4056</sellPrice>
+      <buyPrice />
+      <demandA>51170</demandA>
+      <demandB>MED</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:22:04.2171569-07:00</goodDate>
+      <goodName>TITANIUM</goodName>
+      <sellPrice>1054</sellPrice>
+      <buyPrice />
+      <demandA>193717</demandA>
+      <demandB>LOW</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+    <ocrDataRow>
+      <goodDate>2015-01-25T15:22:04.2171569-07:00</goodDate>
+      <goodName>URANIUM</goodName>
+      <sellPrice>3124</sellPrice>
+      <buyPrice />
+      <demandA>258881</demandA>
+      <demandB>HIGH</demandB>
+      <supplyA />
+      <supplyB />
+    </ocrDataRow>
+  </ocrDataRows>
+</ocrData>

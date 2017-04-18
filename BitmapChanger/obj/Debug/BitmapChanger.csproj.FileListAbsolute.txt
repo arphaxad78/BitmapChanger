@@ -1,0 +1,9 @@
+C:\workspace\BitmapChanger\BitmapChanger\bin\Debug\BitmapChanger.exe.config
+C:\workspace\BitmapChanger\BitmapChanger\bin\Debug\BitmapChanger.exe
+C:\workspace\BitmapChanger\BitmapChanger\bin\Debug\BitmapChanger.pdb
+C:\workspace\BitmapChanger\BitmapChanger\obj\Debug\BitmapChanger.frmMain.resources
+C:\workspace\BitmapChanger\BitmapChanger\obj\Debug\BitmapChanger.Properties.Resources.resources
+C:\workspace\BitmapChanger\BitmapChanger\obj\Debug\BitmapChanger.csproj.GenerateResource.Cache
+C:\workspace\BitmapChanger\BitmapChanger\obj\Debug\BitmapChanger.exe
+C:\workspace\BitmapChanger\BitmapChanger\obj\Debug\BitmapChanger.pdb
+C:\workspace\BitmapChanger\BitmapChanger\obj\Debug\BitmapChanger.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DataOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ScanTailorCommandLineOptions>-amazing</ScanTailorCommandLineOptions>
+  <ScanTailorDirectory>C:\dontknow</ScanTailorDirectory>
+  <TesseractCommandLineOptions>-amazing</TesseractCommandLineOptions>
+  <TesseractDirectory>C:\dontknow</TesseractDirectory>
+  <ScreenshotInputDirectory>C:\dontknow</ScreenshotInputDirectory>
+  <OutputToFile>true</OutputToFile>
+  <OutputFileDirectory>C:\services\temp</OutputFileDirectory>
+  <OutputToCall>false</OutputToCall>
+  <OutputCallURL>http://danserver.com</OutputCallURL>
+  <OutputWhenServiceStarts>true</OutputWhenServiceStarts>
+  <OutputWhenWatcherExecutes>true</OutputWhenWatcherExecutes>
+</DataOptions>

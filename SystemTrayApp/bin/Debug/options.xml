@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<TimerOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <strScreenshotDirectory>C:\temp</strScreenshotDirectory>
+  <bThreeMonitors>false</bThreeMonitors>
+  <intLeftBezel>0</intLeftBezel>
+  <intRightBezel>0</intRightBezel>
+  <strUsername>miker</strUsername>
+  <strPathURL>http://www.hearthforge.com/elite/client/update.xml</strPathURL>
+</TimerOptions>

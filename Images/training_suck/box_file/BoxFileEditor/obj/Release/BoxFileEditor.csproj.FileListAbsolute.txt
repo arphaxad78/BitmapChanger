@@ -1,0 +1,16 @@
+D:\ScottDev\TesseractOcr\Source\BoxFileEditor\_Release\BoxFileEditor.exe
+D:\ScottDev\TesseractOcr\Source\BoxFileEditor\_Release\BoxFileEditor.pdb
+D:\ScottDev\TesseractOcr\Source\BoxFileEditor\BoxFileEditor\obj\Release\MainWindow.g.cs
+D:\ScottDev\TesseractOcr\Source\BoxFileEditor\BoxFileEditor\obj\Release\App.g.cs
+D:\ScottDev\TesseractOcr\Source\BoxFileEditor\BoxFileEditor\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\ScottDev\TesseractOcr\Source\BoxFileEditor\BoxFileEditor\obj\Release\BoxFileEditor_MarkupCompile.cache
+D:\ScottDev\TesseractOcr\Source\BoxFileEditor\BoxFileEditor\obj\Release\BoxFileEditor_MarkupCompile.lref
+D:\ScottDev\TesseractOcr\Source\BoxFileEditor\BoxFileEditor\obj\Release\MainWindow.baml
+D:\ScottDev\TesseractOcr\Source\BoxFileEditor\BoxFileEditor\obj\Release\Themes\Generic.baml
+D:\ScottDev\TesseractOcr\Source\BoxFileEditor\BoxFileEditor\obj\Release\BoxFileEditor.g.resources
+D:\ScottDev\TesseractOcr\Source\BoxFileEditor\BoxFileEditor\obj\Release\BoxFileEditor.Properties.Resources.resources
+D:\ScottDev\TesseractOcr\Source\BoxFileEditor\BoxFileEditor\obj\Release\BoxFileEditor.csproj.GenerateResource.Cache
+D:\ScottDev\TesseractOcr\Source\BoxFileEditor\BoxFileEditor\obj\Release\BoxFileEditor.exe
+D:\ScottDev\TesseractOcr\Source\BoxFileEditor\BoxFileEditor\obj\Release\BoxFileEditor.pdb
+D:\ScottDev\TesseractOcr\Source\BoxFileEditor\BoxFileEditor\obj\Release\SelectedBoxWnd.baml
+D:\ScottDev\TesseractOcr\Source\BoxFileEditor\BoxFileEditor\obj\Release\SelectedBoxWnd.g.cs

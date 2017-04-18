@@ -1,0 +1,7 @@
+<jtesseract-project>
+  <language-pack-name>eli</language-pack-name>
+  <version>1.0</version>
+  <training-images>
+    <image>eli.font-name.exp0.tif</image>
+  </training-images>
+</jtesseract-project>
